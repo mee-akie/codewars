@@ -48,7 +48,7 @@
         <tr>
             <td>8</td>
             <td><a href="https://www.codewars.com/kata/53dc23c68a0c93699800041d">Sentence Smash</a></td>
-            <td><a href="./src/main/java/kata/kyu8/SentenceSmash">SentenceSmash.java</a></td>
+            <td><a href="./src/main/java/kata/kyu8/SentenceSmash.java">SentenceSmash.java</a></td>
         </tr>
     </tbody>
 </table>
