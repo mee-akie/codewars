@@ -47,6 +47,11 @@
         <!-- Kyu 8 -->
         <tr>
             <td>8</td>
+            <td><a href="https://www.codewars.com/kata/53da3dbb4a5168369a0000fe">Even or Odd</a></td>
+            <td><a href="./src/main/java/kata/kyu8/EvenOrOdd.java">EvenOrOdd.java</a></td>
+        </tr>
+        <tr>
+            <td>8</td>
             <td><a href="https://www.codewars.com/kata/53dc23c68a0c93699800041d">Sentence Smash</a></td>
             <td><a href="./src/main/java/kata/kyu8/SentenceSmash.java">SentenceSmash.java</a></td>
         </tr>
