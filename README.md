@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://www.codewars.com/users/willpinha/badges/large">
+</p>
+
 <!-- row template
 <tr>
     <td></td>
