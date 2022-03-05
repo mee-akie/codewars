@@ -1,4 +1,12 @@
-[![Codewars](https://www.codewars.com/users/willpinha/badges/large)](https://www.codewars.com/users/willpinha)
+<p align="center">
+    <a href="https://www.codewars.com/users/willpinha"><img src="https://www.codewars.com/users/willpinha/badges/large" alt="codewars"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/workflow/status/willpinha/codewars/gradle?style=flat-square" alt="gradle">
+    <img src="https://img.shields.io/github/languages/top/willpinha/codewars?style=flat-square" alt="language">
+    <img src="https://img.shields.io/github/license/willpinha/codewars?style=flat-square" alt="license">
+</p>
 
 <!-- row template
 <tr>
