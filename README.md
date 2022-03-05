@@ -1,7 +1,3 @@
-<p align="center">
-    <a href="https://www.codewars.com/users/willpinha"><img src="https://www.codewars.com/users/willpinha/badges/large" alt="codewars"></a>
-</p>
-
 <!-- row template
 <tr>
     <td></td>
