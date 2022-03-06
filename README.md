@@ -32,6 +32,7 @@
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/577a98a6ae28071780000989'>Find Maximum and Minimum Values of a List</a></td><td><a href='src/main/java/codewars/kyu8/FindMaximumAndMinimumValuesOfAList.java'>FindMaximumAndMinimumValuesOfAList.java</a></td></tr>
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/55a70521798b14d4750000a4'>Returning Strings</a></td><td><a href='src/main/java/codewars/kyu8/ReturningStrings.java'>ReturningStrings.java</a></td></tr>
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/55ecd718f46fba02e5000029'>What is between?</a></td><td><a href='src/main/java/codewars/kyu8/WhatIsBetween.java'>WhatIsBetween.java</a></td></tr>
+<tr><td>8</td><td><a href='https://www.codewars.com/kata/5748838ce2fab90b86001b1a'>Area of a Square</a></td><td><a href='src/main/java/codewars/kyu8/AreaOfASquare.java'>AreaOfASquare.java</a></td></tr>
 <!-- next kata 8 -->
 </tbody>
 </table>
