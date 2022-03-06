@@ -54,7 +54,7 @@ def updateReadme(kataData):
         row += "<a href='" + variables["kata_url"] + "'>" + variables["kata_name"] + "</a>"
         row += "</td>"
         row += "<td>"
-        row += "<a href='src/main/java/codewars/kyu" + variables["kata_rank"] + "/'>" + variables["kata_class"] + ".java</a>"
+        row += "<a href='src/main/java/codewars/kyu" + variables["kata_rank"] + "/" + variables["kata_class"] + ".java'>" + variables["kata_class"] + ".java</a>"
         row += "</td>"
         row += "</tr>\n"
         row += "<!-- next kata " + variables["kata_rank"] + " -->"
