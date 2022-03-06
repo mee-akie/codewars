@@ -33,6 +33,7 @@
 <!-- Kyu 5 -->
 <!-- next kata 5 -->
 <!-- Kyu 6 -->
+<tr><td>6</td><td><a href='https://www.codewars.com/kata/569d488d61b812a0f7000015'>Data Reverse</a></td><td><a href='src/main/java/codewars/kyu6/DataReverse.java'>DataReverse.java</a></td></tr>
 <!-- next kata 6 -->
 <!-- Kyu 7 -->
 <tr><td>7</td><td><a href='https://www.codewars.com/kata/5813d19765d81c592200001a'>Don't give me five!</a></td><td><a href='src/main/java/codewars/kyu7/DontGiveMeFive.java'>DontGiveMeFive.java</a></td></tr>
