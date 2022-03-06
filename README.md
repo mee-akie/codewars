@@ -27,6 +27,7 @@
 <!-- next kata 7 -->
 <!-- Kyu 8 -->
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/53dc23c68a0c93699800041d'>Sentence Smash</a></td><td><a href='src/main/java/codewars/kyu8/'>SentenceSmash.java</a></td></tr>
+<tr><td>8</td><td><a href='https://www.codewars.com/kata/58cb43f4256836ed95000f97'>Difference of Volumes of Cuboids</a></td><td><a href='src/main/java/codewars/kyu8/'>DifferenceOfVolumesOfCuboids.java</a></td></tr>
 <!-- next kata 8 -->
 </tbody>
 </table>
