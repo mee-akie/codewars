@@ -85,7 +85,7 @@ def kataSlugToKataClass(kataSlug):
 
 def verifyIfKataIdAlreadyExists(kataId):
     """If kata id already exists, the program will exit"""
-    completedKataList = api.completedListResponse("willpinha")
+    completedKataList = api.completedListResponse("meeakie")
     for kata in completedKataList["data"]:
         if kata["id"] == kataId:
             exit("[ERROR] Kata already completed")

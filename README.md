@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://www.codewars.com/users/willpinha/badges/large">
+    <img src="https://www.codewars.com/users/meeakie/badges/large">
 </p>
 
 <p align="center">
@@ -37,19 +37,7 @@
 <!-- Kyu 7 -->
 <!-- next kata 7 -->
 <!-- Kyu 8 -->
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/53dc23c68a0c93699800041d'>Sentence Smash</a></td><td><a href='src/main/java/codewars/kyu8/SentenceSmash.java'>SentenceSmash.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/58cb43f4256836ed95000f97'>Difference of Volumes of Cuboids</a></td><td><a href='src/main/java/codewars/kyu8/DifferenceOfVolumesOfCuboids.java'>DifferenceOfVolumesOfCuboids.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/56b1f01c247c01db92000076'>Double Char</a></td><td><a href='src/main/java/codewars/kyu8/DoubleChar.java'>DoubleChar.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/577a98a6ae28071780000989'>Find Maximum and Minimum Values of a List</a></td><td><a href='src/main/java/codewars/kyu8/FindMaximumAndMinimumValuesOfAList.java'>FindMaximumAndMinimumValuesOfAList.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/55a70521798b14d4750000a4'>Returning Strings</a></td><td><a href='src/main/java/codewars/kyu8/ReturningStrings.java'>ReturningStrings.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/55ecd718f46fba02e5000029'>What is between?</a></td><td><a href='src/main/java/codewars/kyu8/WhatIsBetween.java'>WhatIsBetween.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/5748838ce2fab90b86001b1a'>Area of a Square</a></td><td><a href='src/main/java/codewars/kyu8/AreaOfASquare.java'>AreaOfASquare.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/545afd0761aa4c3055001386'>Enumerable Magic #25 - Take the First N Elements</a></td><td><a href='src/main/java/codewars/kyu8/EnumerableMagicNumber25TakeTheFirstNElements.java'>EnumerableMagicNumber25TakeTheFirstNElements.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/5715eaedb436cf5606000381'>Sum of positive</a></td><td><a href='src/main/java/codewars/kyu8/SumOfPositive.java'>SumOfPositive.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/555a67db74814aa4ee0001b5'>Is it even?</a></td><td><a href='src/main/java/codewars/kyu8/IsItEven.java'>IsItEven.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/57a4d500e298a7952100035d'>Hex to Decimal</a></td><td><a href='src/main/java/codewars/kyu8/HexToDecimal.java'>HexToDecimal.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/57bfea4cb19505912900012c'>Points of Reflection</a></td><td><a href='src/main/java/codewars/kyu8/PointsOfReflection.java'>PointsOfReflection.java</a></td></tr>
-<tr><td>8</td><td><a href='https://www.codewars.com/kata/5ab6538b379d20ad880000ab'>Area or Perimeter</a></td><td><a href='src/main/java/codewars/kyu8/AreaOrPerimeter.java'>AreaOrPerimeter.java</a></td></tr>
+
 <!-- next kata 8 -->
 </tbody>
 </table>
