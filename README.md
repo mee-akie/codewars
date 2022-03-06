@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/kyu%205-0-yellow?style=for-the-badge&logo=appveyo" alt="kyu 5" width="80">
     <img src="https://img.shields.io/badge/kyu%206-0-yellow?style=for-the-badge&logo=appveyo" alt="kyu 6" width="80">
     <img src="https://img.shields.io/badge/kyu%207-0-white?style=for-the-badge&logo=appveyo" alt="kyu 7" width="80">
-    <img src="https://img.shields.io/badge/kyu%208-11-white?style=for-the-badge&logo=appveyo" alt="kyu 8" width="80">
+    <img src="https://img.shields.io/badge/kyu%208-12-white?style=for-the-badge&logo=appveyo" alt="kyu 8" width="80">
 </p>
 
 <table>
@@ -48,6 +48,7 @@
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/5715eaedb436cf5606000381'>Sum of positive</a></td><td><a href='src/main/java/codewars/kyu8/SumOfPositive.java'>SumOfPositive.java</a></td></tr>
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/555a67db74814aa4ee0001b5'>Is it even?</a></td><td><a href='src/main/java/codewars/kyu8/IsItEven.java'>IsItEven.java</a></td></tr>
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/57a4d500e298a7952100035d'>Hex to Decimal</a></td><td><a href='src/main/java/codewars/kyu8/HexToDecimal.java'>HexToDecimal.java</a></td></tr>
+<tr><td>8</td><td><a href='https://www.codewars.com/kata/57bfea4cb19505912900012c'>Points of Reflection</a></td><td><a href='src/main/java/codewars/kyu8/PointsOfReflection.java'>PointsOfReflection.java</a></td></tr>
 <!-- next kata 8 -->
 </tbody>
 </table>
