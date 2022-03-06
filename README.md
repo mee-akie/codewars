@@ -34,6 +34,7 @@
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/55ecd718f46fba02e5000029'>What is between?</a></td><td><a href='src/main/java/codewars/kyu8/WhatIsBetween.java'>WhatIsBetween.java</a></td></tr>
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/5748838ce2fab90b86001b1a'>Area of a Square</a></td><td><a href='src/main/java/codewars/kyu8/AreaOfASquare.java'>AreaOfASquare.java</a></td></tr>
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/545afd0761aa4c3055001386'>Enumerable Magic #25 - Take the First N Elements</a></td><td><a href='src/main/java/codewars/kyu8/EnumerableMagicNumber25TakeTheFirstNElements.java'>EnumerableMagicNumber25TakeTheFirstNElements.java</a></td></tr>
+<tr><td>8</td><td><a href='https://www.codewars.com/kata/5715eaedb436cf5606000381'>Sum of positive</a></td><td><a href='src/main/java/codewars/kyu8/SumOfPositive.java'>SumOfPositive.java</a></td></tr>
 <!-- next kata 8 -->
 </tbody>
 </table>
