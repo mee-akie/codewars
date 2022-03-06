@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/kyu%201-0-purple?style=for-the-badge&logo=appveyo" alt="kyu 1">
-    <img src="https://img.shields.io/badge/kyu%202-0-purple?style=for-the-badge&logo=appveyo" alt="kyu 2">
-    <img src="https://img.shields.io/badge/kyu%203-0-yellow?style=for-the-badge&logo=appveyo" alt="kyu 3">
-    <img src="https://img.shields.io/badge/kyu%204-0-yellow?style=for-the-badge&logo=appveyo" alt="kyu 4">
-    <img src="https://img.shields.io/badge/kyu%205-0-blue?style=for-the-badge&logo=appveyo" alt="kyu 5">
-    <img src="https://img.shields.io/badge/kyu%206-0-blue?style=for-the-badge&logo=appveyo" alt="kyu 6">
-    <img src="https://img.shields.io/badge/kyu%207-0-white?style=for-the-badge&logo=appveyo" alt="kyu 7">
-    <img src="https://img.shields.io/badge/kyu%208-0-white?style=for-the-badge&logo=appveyo" alt="kyu 8">
+    <img src="https://img.shields.io/badge/kyu%201-0-purple?style=for-the-badge&logo=appveyo" alt="kyu 1" width="80">
+    <img src="https://img.shields.io/badge/kyu%202-0-purple?style=for-the-badge&logo=appveyo" alt="kyu 2" width="80">
+    <img src="https://img.shields.io/badge/kyu%203-0-yellow?style=for-the-badge&logo=appveyo" alt="kyu 3" width="80">
+    <img src="https://img.shields.io/badge/kyu%204-0-yellow?style=for-the-badge&logo=appveyo" alt="kyu 4" width="80">
+    <img src="https://img.shields.io/badge/kyu%205-0-blue?style=for-the-badge&logo=appveyo" alt="kyu 5" width="80">
+    <img src="https://img.shields.io/badge/kyu%206-0-blue?style=for-the-badge&logo=appveyo" alt="kyu 6" width="80">
+    <img src="https://img.shields.io/badge/kyu%207-0-white?style=for-the-badge&logo=appveyo" alt="kyu 7" width="80">
+    <img src="https://img.shields.io/badge/kyu%208-0-white?style=for-the-badge&logo=appveyo" alt="kyu 8" width="80">
 </p>
 
 <table>
