@@ -26,6 +26,7 @@
 <!-- Kyu 7 -->
 <!-- next kata 7 -->
 <!-- Kyu 8 -->
+<tr><td>8</td><td><a href='https://www.codewars.com/kata/53dc23c68a0c93699800041d'>Sentence Smash</a></td><td><a href='src/main/java/codewars/kyu8/'>SentenceSmash.java</a></td></tr>
 <!-- next kata 8 -->
 </tbody>
 </table>
