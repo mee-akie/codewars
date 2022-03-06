@@ -1,6 +1,6 @@
 from sys import exit
 import api
-import os
+import re
 
 def build(kataId):
     """Build Kata and test files, and update README according to the
@@ -48,6 +48,13 @@ def updateReadme(kataData):
         newContent = r.read()
 
     with open("../README.md", "w") as r:
+        # updating kyu count
+        search = re.search(variables["kata_rank"] + "-(\d+)-", newContent)
+        curCount = search.group(1)
+        newCount = int(curCount) + 1
+        newContent = re.sub(variables["kata_rank"] + "-\d+-", variables["kata_rank"] + f"-{newCount}-", newContent)
+
+        # inserting new row in table
         row  = "<tr>"
         row += "<td>" + variables["kata_rank"] + "</td>"
         row += "<td>"
@@ -59,6 +66,7 @@ def updateReadme(kataData):
         row += "</tr>\n"
         row += "<!-- next kata " + variables["kata_rank"] + " -->"
         newContent = newContent.replace("<!-- next kata " + variables["kata_rank"] + " -->", row)
+
         r.write(newContent)
 
 def buildTemplate(source, target, variables):
