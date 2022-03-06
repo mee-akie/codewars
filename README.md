@@ -2,14 +2,6 @@
     <img src="https://www.codewars.com/users/willpinha/badges/large">
 </p>
 
-<!-- row template
-<tr>
-    <td></td>
-    <td><a href=""></a></td>
-    <td><a href="./src/main/java/kata/kyu/"></a></td>
-</tr>
--->
-
 <table>
 <thead>
 <tr>
