@@ -6,3 +6,5 @@ kataId = argv[1] # Put the kata id as an argument
 
 # Build all files
 kata.build(kataId)
+
+print("[OK] Kata builded")

@@ -80,5 +80,5 @@ def verifyIfKataIdAlreadyExists(kataId):
     completedKataList = api.completedListResponse("willpinha")
     for kata in completedKataList["data"]:
         if kata["id"] == kataId:
-            exit("Kata already completed")
+            exit("[ERROR] Kata already completed")
     
