@@ -37,6 +37,7 @@
 <!-- next kata 6 -->
 <!-- Kyu 7 -->
 <tr><td>7</td><td><a href='https://www.codewars.com/kata/5813d19765d81c592200001a'>Don't give me five!</a></td><td><a href='src/main/java/codewars/kyu7/DontGiveMeFive.java'>DontGiveMeFive.java</a></td></tr>
+<tr><td>7</td><td><a href='https://www.codewars.com/kata/554b4ac871d6813a03000035'>Highest and lowest</a></td><td><a href='src/main/java/codewars/kyu7/HighestAndLowest.java'>HighestAndLowest.java</a></td></tr>
 <!-- next kata 7 -->
 <!-- Kyu 8 -->
 <tr><td>8</td><td><a href='https://www.codewars.com/kata/5748838ce2fab90b86001b1a'>Area of a Square</a></td><td><a href='src/main/java/codewars/kyu8/AreaOfASquare.java'>AreaOfASquare.java</a></td></tr>
